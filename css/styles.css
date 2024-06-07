@@ -666,6 +666,8 @@ min-width: 306px;
 			fill: transparent; 
 		}
 
-		.input-comment:checked + .privacy-agreement-link {
-			border-color: #404bbf; 
+		.input-comment:checked + .privacy-agreement-icon {
+			background-color: #404bbf; 
+			border: none;
+			fill:#F4F4FD; 
 		}
